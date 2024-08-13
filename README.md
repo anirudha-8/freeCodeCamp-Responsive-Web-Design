@@ -23,6 +23,46 @@ This repository is organized by the sections of the course, with each project in
 5. **🎨Personal Portfolio Webpage** - Section 5: Responsive Web Design Principles
     - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
 
+## 📖 How to Use This Repository
+
+Follow these steps to clone the repository, navigate to the project folders, and view the projects:
+
+1. **Clone the Repository**:
+   To clone this repository along with its submodules, use the following command:
+
+   ```bash
+   git clone --recurse-submodules <repository-url>
+   ```
+
+2. **Navigate to the Project Folder**:
+
+    After cloning, navigate to the folder for each project using the terminal or file explorer. The folder structure is as follows:
+
+    ```bash
+    freeCodeCamp-Responsive-Web-Design/
+    ├── tribute-page/
+    ├── survey-form/
+    ├── product-landing-page/
+    ├── technical-documentation-page/
+    └── personal-portfolio-webpage/
+    ```
+
+3. **Open the Project**:
+    Inside each project folder, you’ll find an index.html file. Open this file in your web browser to view the live project.
+
+    For example, to view the Tribute Page:
+
+    ```bash
+    cd tribute-page
+    open index.html
+    ```
+
+    Or just double-click index.html to open it in your default browser.
+
+**Explore the Code**: You can edit and experiment with the code using your favorite code editor. Each project folder contains the necessary HTML, CSS, and JavaScript files.
+
+**View the Live Project**: If you have deployed the projects online, use the provided links to view them directly in your web browser.
+
 ## 💡 Why This Repository?
 
 - **🌱 Learning Together:** I believe in the power of learning in public. By sharing my projects, I hope to help others who are on the same path.
