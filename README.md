@@ -9,7 +9,7 @@ In this repository, I've documented my progress through the course, focusing on 
 This repository is organized by the sections of the course, with each project included as a submodule:
 
 1. **🏛️Tribute Page** - Section 1: Basic HTML and HTML5
-    - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
+    - **🔗 [View Project](https://anirudha-8.github.io/survey-form/)** | **📂 [See Repository](https://github.com/anirudha-8/survey-form.git)**
 
 2. **📝Survey Form** - Section 2: Basic CSS
     - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
