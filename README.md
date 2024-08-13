@@ -59,9 +59,13 @@ Follow these steps to clone the repository, navigate to the project folders, and
 
     Or just double-click index.html to open it in your default browser.
 
-**Explore the Code**: You can edit and experiment with the code using your favorite code editor. Each project folder contains the necessary HTML, CSS, and JavaScript files.
+4. **Explore the Code**:
 
-**View the Live Project**: If you have deployed the projects online, use the provided links to view them directly in your web browser.
+   You can edit and experiment with the code using your favorite code editor. Each project folder contains the necessary HTML, CSS, and JavaScript files.
+
+5. **View the Live Project**:
+
+    If you have deployed the projects online, use the provided links to view them directly in your web browser.
 
 ## 💡 Why This Repository?
 
