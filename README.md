@@ -31,7 +31,7 @@ Follow these steps to clone the repository, navigate to the project folders, and
    To clone this repository along with its submodules, use the following command:
 
    ```bash
-   git clone --recurse-submodules <repository-url>
+   git clone https://github.com/anirudha-8/survey-form.git
    ```
 
 2. **Navigate to the Project Folder**:
