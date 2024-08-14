@@ -8,16 +8,16 @@ In this repository, I've documented my progress through the course, focusing on 
 
 This repository is organized by the sections of the course, with each project included as a submodule:
 
-1. **🏛️Tribute Page** - Section 1: Basic HTML and HTML5
+1. **📝Survey Form** - Section 1: Basic HTML and HTML5
     - **🔗 [View Project](https://anirudha-8.github.io/survey-form/)** | **📂 [See Repository](https://github.com/anirudha-8/survey-form.git)**
 
-2. **📝Survey Form** - Section 2: Basic CSS
+2. **🏛️Tribute Page** - Section 2: Basic CSS
+    - **🔗 [View Project](https://anirudha-8.github.io/tribute-page/)** | **📂 [See Repository](https://github.com/anirudha-8/tribute-page.git)**
+
+3. **📚Technical Documentation Page** - Section 3: Applied Accessibility
     - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
 
-3. **📦Product Landing Page** - Section 3: Applied Visual Design
-    - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
-
-4. **📚Technical Documentation Page** - Section 4: Applied Accessibility
+4. **📦Product Landing Page** - Section 4: Applied Visual Design
     - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
 
 5. **🎨Personal Portfolio Webpage** - Section 5: Responsive Web Design Principles

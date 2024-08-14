@@ -1,3 +1,6 @@
 [submodule "1-survey-form"]
 	path = 1-survey-form
 	url = https://github.com/anirudha-8/survey-form.git
+[submodule "2-tribute-page"]
+	path = 2-tribute-page
+	url = https://github.com/anirudha-8/tribute-page.git
