@@ -15,7 +15,7 @@ This repository is organized by the sections of the course, with each project in
     - **🔗 [View Project](https://anirudha-8.github.io/tribute-page/)** | **📂 [See Repository](https://github.com/anirudha-8/tribute-page.git)**
 
 3. **📚Technical Documentation Page** - Section 3: Applied Accessibility
-    - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
+    - **🔗 [View Project](https://anirudha-8.github.io/technical-documentation/)** | **📂 [See Repository](https://github.com/anirudha-8/technical-documentation.git)**
 
 4. **📦Product Landing Page** - Section 4: Applied Visual Design
     - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
