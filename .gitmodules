@@ -7,3 +7,6 @@
 [submodule "3-technical-documentation"]
 	path = 3-technical-documentation
 	url = https://github.com/anirudha-8/technical-documentation.git
+[submodule "4-product-landing-page"]
+	path = 4-product-landing-page
+	url = https://github.com/anirudha-8/product-landing-page.git

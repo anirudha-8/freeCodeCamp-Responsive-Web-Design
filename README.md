@@ -18,7 +18,7 @@ This repository is organized by the sections of the course, with each project in
     - **🔗 [View Project](https://anirudha-8.github.io/technical-documentation/)** | **📂 [See Repository](https://github.com/anirudha-8/technical-documentation.git)**
 
 4. **📦Product Landing Page** - Section 4: Applied Visual Design
-    - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
+    - **🔗 [View Project](https://anirudha-8.github.io/product-landing-page/)** | **📂 [See Repository](https://github.com/anirudha-8/product-landing-page.git)**
 
 5. **🎨Personal Portfolio Webpage** - Section 5: Responsive Web Design Principles
     - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
