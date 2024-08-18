@@ -10,3 +10,6 @@
 [submodule "4-product-landing-page"]
 	path = 4-product-landing-page
 	url = https://github.com/anirudha-8/product-landing-page.git
+[submodule "5-portfolio-webpage"]
+	path = 5-portfolio-webpage
+	url = https://github.com/anirudha-8/portfolio-webpage.git

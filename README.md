@@ -21,7 +21,7 @@ This repository is organized by the sections of the course, with each project in
     - **🔗 [View Project](https://anirudha-8.github.io/product-landing-page/)** | **📂 [See Repository](https://github.com/anirudha-8/product-landing-page.git)**
 
 5. **🎨Personal Portfolio Webpage** - Section 5: Responsive Web Design Principles
-    - **🔗 [View Project](submodule-link)** | **📂 [See Repository](submodule-repo-link)**
+    - **🔗 [View Project](https://anirudha-8.github.io/portfolio-webpage/)** | **📂 [See Repository](https://github.com/anirudha-8/portfolio-webpage.git)**
 
 ## 📖 How to Use This Repository
 
